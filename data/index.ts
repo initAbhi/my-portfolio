@@ -1,5 +1,3 @@
-import { link } from "fs";
-
 export const navItems = [
   { name: "About", link: "#about" },
   { name: "Projects", link: "#projects" },
@@ -107,8 +105,7 @@ export const testimonials = [
     title: "Employee at Microsoft",
   },
   {
-    quote:
-      "will be here soon",
+    quote: "will be here soon",
     name: "User",
     title: "Employee at NVDIA",
   },
@@ -154,7 +151,6 @@ export const companies = [
 ];
 
 export const workExperience = [
-
   {
     id: 2,
     title: "Learning by creating",
